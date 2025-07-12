@@ -2,7 +2,7 @@
 # Residency Weekend Project – Titanic Dataset Analysis
 
 ## Project Overview
-This Jupyter Notebook contains an exploratory data analysis (EDA) of the **Titanic dataset** as part of the **Residency Weekend Project** for the course *Advanced Big Data and Data Mining (MSCS-634-M40)*. The analysis was performed collaboratively by **David Andrejsin, Sakchham Sangroula, Milan Bista, and Unique Karanjit**.
+This Jupyter Notebook contains an exploratory data analysis (EDA) of the **Titanic dataset** as part of the **Residency Weekend Project** for the course *Advanced Big Data and Data Mining (MSCS-634-M40)*. The analysis was performed collaboratively by **David Andrejsin, Sakchham Sangroula, Shimon Bhandari, Milan Bista, and Unique Karanjit**.
 
 The primary goal of this project was to derive insights from the Titanic dataset by performing data cleaning, handling missing values, and visualizing survival patterns based on key features like **passenger class**, **gender**, and **age**.
 
